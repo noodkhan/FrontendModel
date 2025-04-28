@@ -1,4 +1,4 @@
-# Backend Model  
+# Frontend Model  
 Vue 3 app using PrimeVue, Bootstrap, SweetAlert, Router, etc. 
 ---
 
