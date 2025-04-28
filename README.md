@@ -1,7 +1,5 @@
-# Backend Model
-It sounds like you're asking for a **`README`** file for this repo you shared!  
-Based on your code (a Vue 3 app using PrimeVue, Bootstrap, SweetAlert, Router, etc.), here’s a clean, professional README you can use:
-
+# Backend Model  
+Vue 3 app using PrimeVue, Bootstrap, SweetAlert, Router, etc. 
 ---
 
 # MyWebsite
